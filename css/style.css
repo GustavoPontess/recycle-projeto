@@ -1,6 +1,7 @@
-body{
+body {
     color: black;
 }
+
 .body-card {
     width: 100%;
     padding: 10px 25px;
@@ -40,4 +41,52 @@ body{
     line-height: 150%;
     text-align: center;
     display: block;
+}
+
+#personas {
+    font-size: .8rem !important;
+    border-radius: 10rem !important;
+    height: 50px;
+}
+
+#texto {
+    position: relative;
+    text-align: center;
+    line-height: 500px;
+}
+
+/*pagina de agradecimento*/
+
+.obrigado {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgb(255, 255, 255);
+    flex-direction: column;
+}
+
+.texto {
+    font-size: 45px;
+    color: rgb(27, 126, 126);
+    margin-bottom: 30px;
+}
+
+.paragrafo {
+    color: rgb(79, 139, 136);
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.btnobri {
+    padding: 15px 55px;
+    background: rgb(99, 110, 110);
+    text-decoration: none;
+    color: rgb(204, 222, 235);
+    font-size: 20px;
+    transition: all 0.5s;
+}
+
+.btnobri:hover {
+    border-radius: 16px;
 }

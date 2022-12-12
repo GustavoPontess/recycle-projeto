@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "nome": "Gustavo ",
+      "sobrenome": "Nunes",
+      "email": "gut.n.pontes@gmail.com",
+      "senha": "1231",
+      "tipo": "3",
+      "id": "1Afw3B1"
+    }
+  ],
+  "produtos": [
+    {}
+  ],
+  "vendas": [
+    {}
+  ]
+}
